@@ -1,4 +1,4 @@
-# Wourland API
+# Finmobi API
 
 ```shell
 npm install
